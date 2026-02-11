@@ -1,1 +1,10 @@
-css
+.my-button {
+            background-color: #3498db; /* Blue background */
+            color: white;              /* White text */
+            padding: 15px 32px;        /* Spacing inside button */
+            text-align: center;
+            border: none;              /* Remove standard border */
+            border-radius: 8px;        /* Rounded corners */
+            cursor: pointer;           /* Hand icon on hover */
+            font-size: 16px;
+        }

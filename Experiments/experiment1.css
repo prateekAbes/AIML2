@@ -1,1 +1,11 @@
-css1
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+h1 {
+  color: #2c3e50;
+}
+p {
+  color: #7f8c8d;
+  font-size: 18px;
+}
