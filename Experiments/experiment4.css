@@ -1,1 +1,11 @@
-css4
+a {
+  text-decoration: none; /* Removes underline */
+  color: #333;
+  font-size: 20px;
+  font-weight: bold;
+  transition: color 0.3s; /* Smooth color change */
+}
+
+a:hover {
+  color: #e67e22; /* Orange color when hovering */
+}

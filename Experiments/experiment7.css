@@ -1,1 +1,12 @@
-css7
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Drop shadow */
+  transition: 0.3s;
+  width: 300px;
+  border-radius: 5px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
+}
